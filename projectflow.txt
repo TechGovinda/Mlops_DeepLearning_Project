@@ -3,7 +3,7 @@
 3. pip install -r requirements.txt  -- on powershell/command prompt
 4. add code on utils/common.py   -- write a functions which commonly used 
 
-5. Data Ingestion
+5. 
   -update config.yaml
   -update params.yaml
   -update the entity
@@ -13,4 +13,6 @@
   -update the main.py
   -update the app.py
 
-  
+6. Data Ingestion - update all 5. no steps
+7. preparing_Base_model - update all 5. no steps
+8. model_trainer
